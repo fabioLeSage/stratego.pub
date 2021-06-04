@@ -1,0 +1,26 @@
+bonjour voici mon rapport concernant notre projet stratego de cet année.
+
+personnellement, j'aime bien le travail en équipe ça nous a permis de discuter des problémes 
+rencontrés et de trouver des solutions ensemble et rapidement aussi vu que chaqun
+donne son avis.cela m'a aussi permis de plus me familiariser avec mes camarades vu que cet année 
+s'était en distanciel et je ne connaissais meme pas mes camarades de classes j'aime bien travailler en 
+groupe c'est plus pratique  je trouve.
+
+par rapport à ma contribution sur le projet je me suis occupé de la class jeu.h et jeu.cpp
+j'ai aussi aider à la correction des erreurs de compilation on a trouvé des idées ensemble de mener
+le projet à bien meme si on n'avait pas assez de temps.
+
+personnellement j'ai rencontré quelque difficultés sur ma partie du projet surtout avec les 
+erreurs de compilation et aussi j'ai un peu galéré avec les pointeurs mais ça m'a permis 
+d'apprendre davantage et de plus maitriser certaine notion en c++ vu que c'est la premiere fois
+que je code en c++ j'avoue que rencontré  des problémes nous poussent à chercher des solutions
+et on dit que qui cherche trouve de toute façon avec l'informatique on apprend tous les jours
+j'ai aussi demandé de l'aide à mes collégues surtout à FABIO le coordinateur du groupe(il a souffert le pauvre lol)
+du coup le travail en groupe est bien avantageux.
+
+et si on avait plus de temps je sais qu'on aurait pu faire beaucoup plus et trés bien 
+j'aurais vraiment pris mon temps pour plus maitriser le langage c++ et aussi utiliser un interface graphique
+vu que l'on a pas pu le faire parce que s'était un peu plus compliqué et il nous manquer du temps 
+donc on a réduit notre jeu à quelque chose de simple mais bon c'est dommage pour nous mais on aura qu'à meme
+fait tout notre possible pour réussir le projet et que ça fonctionne.
+merci de votre  compréhension et de tolérence.
